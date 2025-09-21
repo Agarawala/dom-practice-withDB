@@ -35,7 +35,7 @@ Hosting: GitHub Pages
 
 Clone this repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone (https://github.com/Agarawala/dom-practice-withDB.git)
 
 
 Open the project folder.
