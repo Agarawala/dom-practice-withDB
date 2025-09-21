@@ -1,0 +1,42 @@
+
+
+body{
+background: linear-gradient(rgb(252, 188, 188),rgb(241, 131, 77));
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+#h1{
+text-align: center;
+font-family:"Bitcount Prop Double Ink" ;
+border-bottom: 5px dotted black;
+border-top: 5px dotted black;
+margin-bottom: 20px;
+padding: 10px;
+font-size: 70px;
+}
+
+#div1{
+    text-align: center;
+}
+input{
+    padding: 15px;
+    background-color: bisque;
+    text-align: center;
+    border-radius:8px ;
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#btn{
+    background-color: tomato;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+#ul1{
+     font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
