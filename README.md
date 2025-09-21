@@ -2,7 +2,7 @@ Firebase Todo App ✅
 
 A simple Todo List web application built using HTML, CSS, JavaScript, and Firebase Realtime Database.
 This app allows users to add and view their tasks in real time, with data stored in Firebase.
-
+----------------------------------------------------------------------------------------------------------------------------------
 🚀 Features
 
 Add new todos easily.
@@ -14,7 +14,7 @@ Automatically fetches and displays todos.
 Hosted on GitHub Pages.
 
 Clean and minimal UI.
-
+-------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
@@ -22,6 +22,7 @@ Frontend: HTML, CSS, JavaScript
 Backend/Database: Firebase Realtime Database
 
 Hosting: GitHub Pages
+-------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Project Structure
 .
@@ -30,6 +31,7 @@ Hosting: GitHub Pages
 ├── script.js       # Firebase logic
 └── README.md       # Project info
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ Setup & Installation
 
@@ -45,6 +47,7 @@ Create a Firebase Realtime Database project and get your config.
 Replace the Firebase config inside script.js with your own.
 
 Open index.html in a browser (or host it on GitHub Pages).
+-------------------------------------------------------------------------------------------------------------------------------------
 
 🔥 How It Works
 
